@@ -1,0 +1,12 @@
+[
+  [
+    "echo",
+    "hello world"
+  ],
+  [
+    "tool",
+    "it's",
+    "$(id)"
+  ],
+  []
+]
